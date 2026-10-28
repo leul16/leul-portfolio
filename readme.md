@@ -1,104 +1,130 @@
-# Leul Yeshitla — Portfolio
+# Leul Yeshitla — Full-Stack Web Developer
 
-Personal portfolio website showcasing my background, projects, and technical interests.
+Personal portfolio showcasing my background, projects, and technical skills in web development, computer science, and networking.
 
-🌐 **Live Website:** https://leul16.github.io/leul-portfolio/
+🌐 **Live Portfolio:** https://leul-portfolio-pi.vercel.app/
+
+💻 **GitHub:** https://github.com/leul16
 
 ## About Me
 
-I'm a Computer Science student at Unity University and a CCNA-certified networking enthusiast, currently moving deeper into web development.
+I'm a Computer Science student at Unity University, focused on building responsive websites and full-stack web applications.
 
-My technical foundation is in networking and security, while I'm actively building my skills in frontend and backend web development.
+I enjoy turning ideas into useful, accessible experiences and learning through practical projects.
+
+My background in networking and CCNA certification provides a foundation in networking, troubleshooting, and security, while I'm actively developing my skills in modern web technologies.
 
 ## Skills
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+* Node.js
+* PostgreSQL
+* Responsive Web Design
+
+### Backend Development
+
+* Full-Stack Development
+* Database Integration
+* User Authentication
+* API Integration
 
 ### Networking
-- Routing
-- Switching
-- Network Troubleshooting
-- Cisco Networking
 
-### Python & Backend
-- Python
-- Requests
-- BeautifulSoup
-- Selenium
-- SQLite
-- Web Automation
+* Routing and Switching
+* Network Troubleshooting
+* Basic Network Security
+* Network Automation Fundamentals
 
-### Security
-- Windows Security Research
-- Windows Internals
-- Security Labs
-- Basic Security Concepts
+### Systems and Scripting
 
-## Projects
+* Python
+* Linux Administration
+* Windows Administration
+* Scripting and Automation
 
-### Event Management System
-A university team project involving event management functionality and backend development.
+### Tools
 
-**Technologies:** JavaScript, Backend Development
+* Git
+* GitHub
+* Vercel
 
-GitHub: https://github.com/natasteria/CEMS
+## Featured Projects
 
-### Payment Verification System
-A Python-based system for verifying payment transactions and storing verified transaction records.
+### Slotly — Booking Application
 
-**Technologies:**
-- Python
-- SQLite
-- Requests
-- BeautifulSoup
-- Selenium
+A full-stack appointment booking application built to provide a clear and user-friendly booking experience.
 
-The system checks transaction information, prevents duplicate invoice records, and stores verified transactions.
+**My contributions:**
 
-### Windows Security Research Labs
-Controlled security research projects exploring Windows process and memory concepts.
+* Developed a responsive interface using modern web technologies.
+* Implemented application functionality and database integration.
+* Built a practical full-stack application.
+* Tested and deployed the application.
 
 **Technologies:**
-- Python
-- Windows API
-- Windows Internals
 
-These projects were developed for controlled laboratory and security research purposes.
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* PostgreSQL
+* Prisma ORM
+* Vitest
+* Vercel
+* Neon
 
-### Portfolio Website
-My personal portfolio website built with HTML, CSS, and JavaScript.
+🌐 **Live Demo:** https://slotly-booking-portal.vercel.app/
+
+💻 **GitHub Repository:** https://github.com/leul16/slotly-booking-portal
+
+### Event Management System — Unity University (CEMS)
+
+A university team project developed to support event management at Unity University.
+
+Collaborated with classmates on the development of the application, contributing to backend functionality and working with the team to develop and integrate project features.
 
 **Technologies:**
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
 
-## Education
+* JavaScript
+* Backend Development
+* Team Collaboration
 
-**BSc Computer Science**  
-Unity University, Ethiopia  
-2023 – Present
+💻 **GitHub Repository:** https://github.com/natasteria/CEMS
 
-**CCNA — Cisco Certified Network Associate**
+## Education and Certification
 
-**Certificate in Computer Networking**  
-Cisco Networking Academy  
-2024
+### BSc in Computer Science
+
+Unity University, Ethiopia
+March 2023 – Present
+
+### Cisco Certified Network Associate (CCNA)
+
+Cisco
+
+### Certificate in Computer Networking
+
+Cisco Networking Academy
+March – August 2024
 
 ## Contact
 
-📧 Email: leulyeshitla18@gmail.com
+I'm open to freelance web development opportunities and collaborations on responsive websites and full-stack applications.
 
-💼 LinkedIn: https://www.linkedin.com/in/leul-yeshitla-gebrekirstos
+📧 **Email:** [leulyeshitla18@gmail.com](mailto:leulyeshitla18@gmail.com)
 
-📱 Telegram: https://t.me/Y_LEUL
+💼 **LinkedIn:** https://www.linkedin.com/in/leul-yeshitla-gebrekirstos
+
+📱 **Telegram:** https://t.me/Y_LEUL
+
+🌐 **Portfolio:** https://leul-portfolio-pi.vercel.app/
 
 ---
 
-⭐ Thanks for visiting my repository.
+⭐ Thanks for visiting my repository!
