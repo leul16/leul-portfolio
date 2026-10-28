@@ -117,7 +117,7 @@ March – August 2024
 
 I'm open to freelance web development opportunities and collaborations on responsive websites and full-stack applications.
 
-📧 **Email:** [leulyeshitla18@gmail.com](mailto:leulyeshitla18@gmail.com)
+📧 **Email:** [leulyeshitla16@gmail.com](mailto:leulyeshitla16@gmail.com)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/leul-yeshitla-gebrekirstos
 
